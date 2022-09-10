@@ -10,3 +10,14 @@
 .icon{
     margin: 0;
 }
+.tech-section{
+    background-image: url("images/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+}
+footer{
+    height: 150px;
+    background-color: black;
+}
