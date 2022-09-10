@@ -1,0 +1,12 @@
+.background{
+    background-image:linear-gradient(9deg, #2937f0, #9f1ae2);
+}
+.logo{
+    width: 15%;
+}
+.mobile{
+    font-size: 3rem;
+}
+.icon{
+    margin: 0;
+}
